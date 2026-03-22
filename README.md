@@ -14,12 +14,13 @@ I am a results-driven **Data Management professional** with strong expertise in 
 
 ### 📊 Data & Analytics
 - SQL  
-- Microsoft Excel  
-- Power Query  
+- Microsoft Excel    
 - Power BI  
 
 ### ⚙️ Automation & Workflow
-- Power Automate  
+- Power Automate
+- Power Query
+- Python
 
 ### 🗄️ Data Platforms
 - Oracle  
