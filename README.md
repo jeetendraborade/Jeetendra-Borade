@@ -33,15 +33,7 @@ I am a results-driven **Data Management professional** with strong expertise in 
 ✔️ Dashboard Development & Reporting  
 ✔️ Data Governance & Management  
 ✔️ Workflow Automation  
-✔️ Business Intelligence Solutions  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+✔️ Business Intelligence Solutions
 
 ---
 
